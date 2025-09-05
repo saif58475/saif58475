@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @saif58475
-- 👀 I’m interested in ...fullstack development 
-- 🌱 I’m currently learning ...client side & server side concepts 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Seif Elfaggal
+- 👀 I’m interested in ...fullstack development using Angular & DotNet Core frameworks 
+- 🌱 I’m currently working in Qudra Technology for software developments, it is a saudia arabia company working in governmental projects 
 - 📫 How to reach me ...by this account https://www.facebook.com/saifo.karyoki/ or by my whatsapp 00201033884919
 
 <!---
